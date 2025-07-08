@@ -1,13 +1,9 @@
 #include <stdio.h>
 
-int a = 57;
-int b = 83;
-int c = 17;
-
-
+int ans = 57+83-17;
 
 int main(){
-    printf("(%d+%d)-%d=%d\n",a,b,c,(a+b)-c);
+    printf("%d\n",ans);
     return 0;
 }
 

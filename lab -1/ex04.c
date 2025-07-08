@@ -1,13 +1,8 @@
 #include <stdio.h>
 
-float a = 23.5;
-float b = 23.5;
-float c = 6.4;
-
-
+float ans = 23.5+23.5+6.4;
 
 int main(){
-    printf("%.1f+%.1f+%.1f=%.2f\n",a,b,c,(a+b+c));
+    printf("%.2f\n",ans);
     return 0;
 }
-
