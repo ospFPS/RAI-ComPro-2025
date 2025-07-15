@@ -19,7 +19,7 @@ int main(){
     printf("Enter you University name: ");
     scanf("%s",uni);
   
-    printf("\nHi! Everyone. This is K.%s from %s. I am %d years old and my height is\n %.1f cm tall.\n", first,uni,age,height);
+    printf("\nHi! Everyone. This is %c.%s from %s. I am %d years old and my height is\n %.1f cm tall.\n", last[0],first,uni,age,height);
     return 0;
 }
 
