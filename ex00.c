@@ -12,6 +12,6 @@ int main() {
     printf("%d\n",number1+number2);
     printf("%f\n",number3);
     printf("%c\n",abba);
-    printf("%s","khai mao");
+    printf("%s\n","khai mao");
     return 0;
 }
