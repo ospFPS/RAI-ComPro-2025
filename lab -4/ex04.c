@@ -6,7 +6,7 @@ scanf("%d",&baseNum);
 printf("\nMultiplication table\n");
 while (num<=12)
 {
-printf ("%4d * %-2d = %-3d\n", baseNum,num, baseNum*num);
+printf ("4%d * %-2d = %-3d\n", baseNum,num, baseNum*num);
 num++;
 }
 
