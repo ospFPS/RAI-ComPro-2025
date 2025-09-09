@@ -3,6 +3,8 @@
         "string.h": "c",
         "string": "c",
         "string_view": "c",
-        "cmath": "c"
+        "cmath": "c",
+        "stdio.h": "c",
+        "array": "c"
     }
 }
